@@ -1,0 +1,21 @@
+# Build directories
+build/
+bin/
+*.exe
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies
+*.dll
+*.so
+*.dylib
